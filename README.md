@@ -43,4 +43,4 @@
 
 ## More info
 
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=andreytondo&layout=compact&theme=dark&locale=pt-BR)
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=andreytondo&layout=compact&theme=dark)
